@@ -1,4 +1,4 @@
-# 🚀 Guía de Herramientas para Desarrollar Proyectos Rápido, Sencillo y Bien Hecho
+# 🚀 Guía de Herramientas para Desarrollar Proyectos Rápido, Sencillo
 
 Este documento reúne algunas de las mejores herramientas que puedes usar para estructurar, diseñar y desarrollar proyectos de software de manera ágil, con calidad y manteniendo buenas prácticas.
 
