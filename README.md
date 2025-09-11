@@ -99,6 +99,9 @@ https://filamentphp.com/plugins/bezhansalleh-shield
 https://filamentphp.com/plugins/bezhansalleh-panel-switch
 https://filamentphp.com/plugins/shane-rosenthal-panel-roles
 
+## Panel
+https://github.com/bezhanSalleh/filament-panel-switch
+
 ## Email
 https://app.mailgun.com/dashboard?tab=send
 
