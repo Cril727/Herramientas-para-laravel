@@ -96,6 +96,8 @@ Con estas herramientas, puedes pasar de una idea a un producto funcional **mucho
 
 ## Roles y permisos
 https://filamentphp.com/plugins/bezhansalleh-shield
+https://filamentphp.com/plugins/bezhansalleh-panel-switch
+https://filamentphp.com/plugins/shane-rosenthal-panel-roles
 
 ## Email
 https://app.mailgun.com/dashboard?tab=send
