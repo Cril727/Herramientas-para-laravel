@@ -100,7 +100,7 @@ https://filamentphp.com/plugins/bezhansalleh-shield
 ## Email
 https://app.mailgun.com/dashboard?tab=send
 
-##Paquete de paises, estados y ciudades
+## Paquete de paises, estados y ciudades
 https://packagist.org/packages/altwaireb/laravel-world
 
 ---
