@@ -94,6 +94,15 @@ Este documento reúne algunas de las mejores herramientas que puedes usar para e
 
 Con estas herramientas, puedes pasar de una idea a un producto funcional **mucho más rápido** y con calidad.
 
+## Roles y permisos
+https://filamentphp.com/plugins/bezhansalleh-shield
+
+## Email
+https://app.mailgun.com/dashboard?tab=send
+
+##Paquete de paises, estados y ciudades
+https://packagist.org/packages/altwaireb/laravel-world
+
 ---
 
 ## 📌 Conclusión
